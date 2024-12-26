@@ -31,7 +31,6 @@ A modern e-commerce application built with Next.js, featuring product listing, f
    ```bash
    npm run dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
 
